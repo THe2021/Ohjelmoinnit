@@ -1,3 +1,3 @@
 # Ohjelmoinnit
 
-Tämä repository on luotu koulutehtävien varastointia varten.
+Ohjelmointi 3, Esitehtävä
